@@ -9,7 +9,7 @@ Intern @
 - Project 1
 - Project 2
 
-- ### Projects
+### Projects
 python1
 - R1
 - Tableau
